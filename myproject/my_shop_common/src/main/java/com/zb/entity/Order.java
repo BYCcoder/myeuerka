@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 public class Order implements Serializable {
     //新开发的功能
+    //测试测试
     private Integer id;
     private String name;
     private Integer price;
