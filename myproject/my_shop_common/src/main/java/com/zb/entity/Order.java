@@ -3,6 +3,7 @@ package com.zb.entity;
 import java.io.Serializable;
 
 public class Order implements Serializable {
+    //新开发的功能
     private Integer id;
     private String name;
     private Integer price;
